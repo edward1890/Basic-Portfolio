@@ -1,0 +1,67 @@
+body {
+    background: url('../images/fresh_snow.png');
+   
+}
+h1 {
+    font-size: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.container {
+    width: 227px;
+    height: 58px;
+    background-color: #4aaaa5;
+    margin-left: 119px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+    color: white;
+
+
+}
+.container1 {
+    width: 1226px;
+    height: 76px;
+    background-color: #ffffff;
+    border-bottom-color: #cccccc;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+.about_link {
+    width: 90px;
+    height: 20px;
+    border-right-color: #cccccc
+    border-right-width: 2px;
+    border-right-style: solid;
+    float:right;
+    background-color: #ffffff;
+    float: top;
+    
+}
+
+.port_link {
+    width: 90px;
+    height: 20px;
+    border-right-color: #cccccc
+    border-right-width: 2px;
+    border-right-style: solid;
+    float:right;
+    background-color: #ffffff;
+}
+
+.Contact_link {
+    width: 90px;
+    height: 20px;
+    border-right-color: #cccccc
+    border-right-width: 2px;
+    border-right-style: solid;
+    float:right;
+    background-color: #ffffff;
+}

@@ -22,6 +22,7 @@ p {
     font-weight: bold;
     padding-top: 20px;
     color: white;
+    float: left;
 
 
 }
@@ -70,6 +71,37 @@ p {
    width: 650px;
    height: 500px;
    background-color: #ffffff;
-   margin-left: 119px;
-   overflow: visible
+   margin-left: 80px;
+   overflow: visible;
+   display: inline-block;
+}
+.about_header {
+    font-weight: bold;
+    font-size: 30px;
+    color: #4aaaa5;
+    margin-left: 30px;
+    padding: 30px;
+}
+.profile_pic {
+    margin-left: 60px;
+    padding: 20px;
+    background-color: 
+
+}
+
+.text_bio {
+    padding: 20px;
+    margin-left: 20px;
+    overflow-wrap: break-word;
+
+}
+
+.connect_bar {
+    width: 270px;
+    height: 200px;
+    background-color: #ffffff;
+    margin-right: 100px;
+    margin-bottom: 300px;
+    float: right;
+    
 }
